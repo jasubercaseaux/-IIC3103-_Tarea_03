@@ -1,0 +1,68 @@
+.leaflet-container {
+  width: 48vw;
+  height: 70vh;
+}
+
+#cont-vuelos {
+  position: absolute;
+  width: 25vw;
+  height: 90vh;
+}
+
+#cont-mapa {
+  position: absolute;
+  margin-left: 25%;
+  width: 50vw;
+  margin-top: 10px;
+  padding: 10vh 1vw;
+}
+
+#cont-chat {
+  position: absolute;
+  margin-left: 75%;
+  width: 25vw;
+  height: 90vh;
+}
+
+#cont-tarjetas-vuelos {
+  overflow-y: scroll;
+  width: 23vw;
+  height: 80vh;
+  margin: auto;
+}
+
+#carta-vuelo {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#cont-boton-vuelos {
+  margin: 15px;
+}
+
+#cont-accion-chat {
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+}
+
+#cont-mensajes {
+  overflow-y: scroll;
+  height: 65vh;
+  margin: 15px;
+}
+
+#cont-nombre-chat {
+  padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+#fecha-chat {
+  font-size: x-small;
+  text-align: right;
+}
+
+#cont-mensaje {
+  margin: 10px;
+}
