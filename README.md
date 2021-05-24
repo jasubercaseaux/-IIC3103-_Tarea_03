@@ -1,6 +1,3 @@
-# React-Leaflet Demo
+# ReadMe
 
-Using React and Leaflet to render Markers and Popups in a map in React.
-
-- Article: Coming soon!
-- Video: Coming soon!
+Base del código de la Tarea 03 de IIC3101. No contiene el "node_modules", pero el código está completo.
